@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <cstring>
-#include <limits.h> //Проверить, а нужен ли он.
+#include <limits.h> 
 
 using namespace std;
 setlocale(LC_ALL, "Russian");
